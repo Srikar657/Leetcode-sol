@@ -7,28 +7,28 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 0 | 0 |
-| Medium | 1 | 2 |
+| Medium | 2 | 2 |
 | Hard | 0 | 0 |
-| **Total** | **1** | **2** |
+| **Total** | **2** | **2** |
 
-1 problem(s), 1 solution file(s) in this repository.
+2 problem(s), 2 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-11).
-> 1 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 1 |
+| Python | 2 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-### Medium (1)
+### Medium (2)
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Python | [folder](Medium/0003-longest-substring-without-repeating-characters/) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Python | [folder](Medium/0049-group-anagrams/) |
 
 <!-- LEETCODE-SYNC-END -->
