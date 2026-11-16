@@ -6,23 +6,29 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 0 | 0 |
+| Easy | 1 | 1 |
 | Medium | 2 | 2 |
 | Hard | 0 | 0 |
-| **Total** | **2** | **2** |
+| **Total** | **3** | **3** |
 
-2 problem(s), 2 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-11).
+3 problem(s), 3 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-16).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 2 |
+| Python | 3 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
+
+### Easy (1)
+
+| # | Problem | Language(s) | Link |
+|---|---------|-------------|------|
+| 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Python | [folder](Easy/2243-calculate-digit-sum-of-a-string/) |
 
 ### Medium (2)
 
