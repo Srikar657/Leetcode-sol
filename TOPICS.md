@@ -18,6 +18,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
 
+## Linked List (1)
+
+- #203 [Remove Linked List Elements](Easy/0203-remove-linked-list-elements/) - Easy
+
+## Recursion (1)
+
+- #203 [Remove Linked List Elements](Easy/0203-remove-linked-list-elements/) - Easy
+
 ## Simulation (1)
 
 - #2243 [Calculate Digit Sum of a String](Easy/2243-calculate-digit-sum-of-a-string/) - Easy
