@@ -6,28 +6,29 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 1 | 1 |
+| Easy | 2 | 2 |
 | Medium | 3 | 3 |
 | Hard | 0 | 0 |
-| **Total** | **4** | **4** |
+| **Total** | **5** | **5** |
 
-4 problem(s), 4 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-18).
+5 problem(s), 5 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-20).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 4 |
+| Python | 5 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-### Easy (1)
+### Easy (2)
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Python | [folder](Easy/0203-remove-linked-list-elements/) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Python | [folder](Easy/2243-calculate-digit-sum-of-a-string/) |
 
 ### Medium (3)
