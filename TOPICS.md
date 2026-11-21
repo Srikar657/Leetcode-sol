@@ -14,17 +14,19 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
 
+## Linked List (2)
+
+- #143 [Reorder List](Medium/0143-reorder-list/) - Medium
+- #203 [Remove Linked List Elements](Easy/0203-remove-linked-list-elements/) - Easy
+
+## Recursion (2)
+
+- #143 [Reorder List](Medium/0143-reorder-list/) - Medium
+- #203 [Remove Linked List Elements](Easy/0203-remove-linked-list-elements/) - Easy
+
 ## Array (1)
 
 - #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
-
-## Linked List (1)
-
-- #203 [Remove Linked List Elements](Easy/0203-remove-linked-list-elements/) - Easy
-
-## Recursion (1)
-
-- #203 [Remove Linked List Elements](Easy/0203-remove-linked-list-elements/) - Easy
 
 ## Simulation (1)
 
@@ -37,3 +39,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Sorting (1)
 
 - #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
+
+## Stack (1)
+
+- #143 [Reorder List](Medium/0143-reorder-list/) - Medium
+
+## Two Pointers (1)
+
+- #143 [Reorder List](Medium/0143-reorder-list/) - Medium
